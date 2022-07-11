@@ -1,0 +1,128 @@
+
+#EXTM3U
+#EXTINF:-1,Web Tv Cine Live
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w798596953.m3u8
+#EXTINF:-1,Tv Aracati HD Live
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CHANNEL 1 Live
+https://stmv1.srvif.com/channel1/channel1/chunklist_w803585326.m3u8
+#EXTINF:-1,Tv Nova Play Live
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1488938933.m3u8
+#EXTINF:-1,HITS TV Live	
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w329601784.m3u8
+#EXTINF:-1,TV CARIOCA.NET	
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1778615550.m3u8
+#EXTINF:-1,Tv J.SID Live
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Retro Cartoon Live
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1345083128.m3u8
+#EXTINF:-1,TV Rabelo Live
+https://cdn.jmvstream.com/w/AVJ-10593/playlist/chunklist.m3u8
+#EXTINF:-1,Classique Western Tv Live
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w2012863529.m3u8
+#EXTINF:-1,Bons Tempos Live	
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w740432206.m3u8
+#EXTINF:-1,Classique TV 2 Live
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w982228695.m3u8
+#EXTINF:-1,Tela Viva Live
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1067039858.m3u8
+#EXTINF:-1,QTAL CHANNEL Live
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2113239866.m3u8
+#EXTINF:-1,Rede Serra Live
+https://serv3.videovox.pw/ivonildoferreiradasilva1063/ivonildoferreiradasilva1063/chunklist_w1002276204.m3u8
+#EXTINF:-1,Run Time Comédia Live
+https://stream.ads.ottera.tv/cl/c1939b50-8c50-4bcb-bce8-1488384d3abd/1280x720_3071200_0_false.m3u8
+#EXTINF:-1,TV Series	
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w627535334.m3u8
+#EXTINF:-1,CinePIX TV Live
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1151113499.m3u8
+#EXTINF:-1,Tv Jornada Nas Estrelas (Star Trek
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w192135302.m3u8
+#EXTINF:-1,SIC Live	
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1,WOW TV vivo	
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1938660268_b1500000_slen.m3u8
+#EXTINF:-1,Canal 29 Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/chunklist_w501938242.m3u8
+#EXTINF:-1,TRT 1 HD ao vivo
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,Porto Canal Live	
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w937858015.m3u8
+#EXTINF:-1,Cosmos Tv Live
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8	
+#EXTINF:-1,Direto RTP	
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?token=1657684800_b3b9e5817c5056305210378cb423460c89c790ef
+#EXTINF:-1,Direto TVI
+https://video-auth2.iol.pt/live_tvi/live_tvi/edge_servers/tvi-480p/chunks.m3u8?nimblesessionid=434399912&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDE6MTI6NiBQTSZoYXNoX3ZhbHVlPXVYMHNicmRKc3ZHektiV1YvdEJRZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNmEyMTlkZi05OTQzLTQ5OTUtODMwMC00YzY3OTU1ZDVjZjU=
+#EXTINF:-1,CNN Direto
+https://video-auth8.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=368294986&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDE6MTI6NiBQTSZoYXNoX3ZhbHVlPXVYMHNicmRKc3ZHektiV1YvdEJRZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNmEyMTlkZi05OTQzLTQ5OTUtODMwMC00YzY3OTU1ZDVjZjU=
+#EXTINF:-1,Direto TVI 24
+https://video-auth4.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=294848236&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDE6MTI6NiBQTSZoYXNoX3ZhbHVlPXVYMHNicmRKc3ZHektiV1YvdEJRZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNmEyMTlkZi05OTQzLTQ5OTUtODMwMC00YzY3OTU1ZDVjZjU=
+#EXTINF:-1,Canal Andorra 	
+https://videos.rtva.ad/live/web/chunklist_w1780954466.m3u8
+#EXTINF:-1,Tv Series 7	
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w874428000.m3u8
+#EXTINF:-1,Tv Séries 5
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w2142063565.m3u8
+#EXTINF:-1,Tv Series 6	
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1031968117.m3u8
+#EXTINF:-1,Player Web Tv Agua Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w574813587.m3u8
+#EXTINF:-1,Sportv 1 Pt
+https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/b5r01up6xuiica.m3u8?s=NQc9ZXCGM8CiOhtwlThjcg&e=1657572075
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
